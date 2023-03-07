@@ -1,0 +1,10 @@
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\bin\Debug\PTesteEventos.exe.config
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\bin\Debug\PTesteEventos.exe
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\bin\Debug\PTesteEventos.pdb
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.AssemblyReference.cache
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.Form1.resources
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.Properties.Resources.resources
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.GenerateResource.cache
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.csproj.CoreCompileInputs.cache
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.exe
+C:\Users\GUI\Desktop\PTesteEventos\PTesteEventos\obj\Debug\PTesteEventos.pdb
