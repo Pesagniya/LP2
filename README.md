@@ -1,2 +1,2 @@
 # LP2
-Fatec
+Fatec - Sorocaba
