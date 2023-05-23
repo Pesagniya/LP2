@@ -1,0 +1,10 @@
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\bin\Debug\PContato0030482221032.exe.config
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\bin\Debug\PContato0030482221032.exe
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\bin\Debug\PContato0030482221032.pdb
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.csprojAssemblyReference.cache
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.Form1.resources
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.Properties.Resources.resources
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.csproj.GenerateResource.cache
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.csproj.CoreCompileInputs.cache
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.exe
+C:\Users\0030482221032\source\repos\PContato0030482221032\PContato0030482221032\obj\Debug\PContato0030482221032.pdb
